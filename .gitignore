@@ -1,0 +1,12 @@
+moc/
+obj/
+rcc/
+ui/
+debian/
+qtc_packaging/
+*.user
+/Makefile
+
+/KeySaver
+/keysaver_0.0.1_armel.changes
+/keysaver_0.0.1_armel.deb
